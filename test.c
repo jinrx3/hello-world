@@ -18,6 +18,7 @@ int main(int argc,char *argv[])
 /* 	if(argc != 2)
 	{
 		printf("请输入网络链接!\n");
+printf("请输入网络链接!\n");
 		return 0;
 	}
 	 */
